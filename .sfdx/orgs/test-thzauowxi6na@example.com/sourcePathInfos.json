@@ -1,0 +1,244 @@
+[
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1549451902315,
+            "changeTime": 1549451902315,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1549451902315,
+            "changeTime": 1549451902315,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1549452893202,
+            "changeTime": 1549452893202,
+            "contentHash": "5f8a336d0c2448d6fbea8c81bc1925912d672a9b"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1549451902315,
+            "changeTime": 1549451902315,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1549451916496,
+            "changeTime": 1549451916496,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1549452893179,
+            "changeTime": 1549452893179,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1549452893184,
+            "changeTime": 1549452893184,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1549452893189,
+            "changeTime": 1549452893189,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1549452893194,
+            "changeTime": 1549452893194,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1549452893197,
+            "changeTime": 1549452893197,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1549452893201,
+            "changeTime": 1549452893201,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 700,
+            "modifiedTime": 1549452893202,
+            "changeTime": 1549452893202,
+            "contentHash": "496e401c71968f859fd216158a231c887bbde781"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1549452893179,
+            "changeTime": 1549452893179,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1549452893184,
+            "changeTime": 1549452893184,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1549452893184,
+            "changeTime": 1549452893184,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1549452893184,
+            "changeTime": 1549452893184,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1549452893201,
+            "changeTime": 1549452893201,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vsatheesh/workspace/GeoLocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1549452893202,
+            "changeTime": 1549452893202,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
